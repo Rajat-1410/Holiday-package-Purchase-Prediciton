@@ -32,7 +32,7 @@ The dataset contains customer demographic, behavioral, and interaction-related f
 
 ---
 
-## 🛠️ Tools & Libraries Used
+##  Tools & Libraries Used
 
 * Python 3
 * Pandas, NumPy
